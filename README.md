@@ -1,4 +1,5 @@
 #M04 Tutorial Django Introduction
 
-First commit did not work - using .gitignore  
-second commit will try without using .gitignore
+First commit - using .gitignore  
+     Forgot to push it!
+second commit - using .gitignore
